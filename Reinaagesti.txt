@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 OK Nilai A
 
 EINA
+=======
+reina pulang bareng yuk
+>>>>>>> 260ab4188751f83b9f6635cb4f52e3e26d5e60bc
